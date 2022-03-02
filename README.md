@@ -12,5 +12,8 @@ Model evaluation using different strategies:
  
 Test the performance of the model using metrics such as Accuracy, Precision, Recall, F1, Roc_auc
 
-### Credit Scorecard Development.iynb
-Code on OptBinning process to develop and evaluate scorecard model and performance, pickling and unpickling process for prediction of test data scores in production.
+### Credit Scorecard Development.ipynb
+- Scorecard Modeling using OptBinning and scorecard development and visualizing the performance of scorecard
+- Pickling and unpickling process for prediction of test data scores in production
+
+
