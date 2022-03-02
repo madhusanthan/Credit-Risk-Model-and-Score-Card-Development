@@ -3,7 +3,7 @@ Develop Risk Model and Score card for Lending Loan Dataset
 
 
 ### Data Preprocessing, EDA and Feature Importance.ipynb 
-Data Pre-processing, Cleaning, Exploratory Data Analysis of the Cleaned Dataset. Also, Feature Importance is evaluated using for categorical using Chi-squared statistic and numerical features using ANOVA F-statisitic
+Data Pre-processing, Cleaning, Exploratory Data Analysis of the Cleaned Dataset. Also, Feature Importance is evaluated for categorical features using Chi-squared statistic and numerical features using ANOVA F-statisitic
 
 ### Credit Risk Modeling.ipynb
 Model evaluation using different strategies:
