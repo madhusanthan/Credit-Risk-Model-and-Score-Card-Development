@@ -8,7 +8,7 @@ Data Pre-processing, Cleaning, Exploratory Data Analysis of the Cleaned Dataset.
 ### Credit Risk Modeling Split Data.ipynb
 Data cleaning, pre-processing and train test split(80/20), split data saved to csv for model consumption
 
-### Credit Risk Modeling.ipynb
+### Credit Risk Model.ipynb
 Model evaluation using different strategies:
   1. model evaluation using Logistic Regression, Decision Tree Classifier
   2. Stratified K-fold cross validation and model evaluation using Logistic Regression, XGBoost, Decision Tree Classifier
